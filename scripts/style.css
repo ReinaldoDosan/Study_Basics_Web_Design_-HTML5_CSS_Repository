@@ -1,0 +1,9 @@
+blockquote {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
